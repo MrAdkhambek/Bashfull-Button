@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Bashful">
+        <attr name="bashGradientColorStart" format="color" />
+        <attr name="bashGradientColorEnd" format="color" />
+
+        <attr name="bashBottomIcon" format="reference" />
+        <attr name="bashIconHeight" format="dimension" />
+        <attr name="bashIconWidth" format="dimension" />
+        <attr name="bashHideLevel" format="dimension" />
+    </declare-styleable>
+
+</resources>

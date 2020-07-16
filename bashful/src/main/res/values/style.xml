@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Bashful">
+        <item name="bashGradientColorStart">@color/gradient_color_1</item>
+        <item name="bashGradientColorEnd">@color/gradient_color_2</item>
+    </style>
+</resources>
