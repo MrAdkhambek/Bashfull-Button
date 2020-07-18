@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/MrAdkhambek/AdamsPinView.svg)](https://jitpack.io/#MrAdkhambek/AdamsPinView)
+[![](https://jitpack.io/v/MrAdkhambek/Bashfull-Button.svg)](https://jitpack.io/#MrAdkhambek/Bashfull-Button)
 
 Add it in your root build.gradle at the end of repositories:
 ```
