@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/MrAdkhambek/Bashfull-Button.svg)](https://jitpack.io/#MrAdkhambek/Bashfull-Button)
+[![](https://jitpack.io/v/MrAdkhambek/AdamsPinView.svg)](https://jitpack.io/#MrAdkhambek/AdamsPinView)
 
 Add it in your root build.gradle at the end of repositories:
 ```
@@ -12,7 +12,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-	implementation 'com.github.MrAdkhambek:Bashfull-Button:0.0.1'
+	implementation 'com.github.MrAdkhambek:AdamsPinView:0.1.0'
 }
 ```
 
