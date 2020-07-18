@@ -12,7 +12,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-	implementation 'com.github.MrAdkhambek:AdamsPinView:0.1.0'
+	implementation 'com.github.MrAdkhambek:Bashfull-Button:0.0.1'
 }
 ```
 
